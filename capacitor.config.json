@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "hacka-microsoft",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

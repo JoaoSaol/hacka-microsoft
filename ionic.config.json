@@ -1,0 +1,8 @@
+{
+  "name": "hacka-microsoft",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "f6d172d9"
+}
